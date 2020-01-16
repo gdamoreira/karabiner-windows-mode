@@ -18,7 +18,8 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -46,7 +47,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -71,7 +73,8 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -99,7 +102,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -127,7 +131,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -155,7 +160,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -183,7 +189,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -211,7 +218,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -239,7 +247,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -267,7 +276,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -295,7 +305,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -323,7 +334,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -351,7 +363,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -379,7 +392,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -407,7 +421,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -435,7 +450,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -466,7 +482,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -494,7 +511,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -539,7 +557,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -567,7 +586,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -595,7 +615,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -648,7 +669,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -676,7 +698,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -766,7 +789,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -794,7 +818,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -822,7 +847,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -850,7 +876,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -878,7 +905,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -907,7 +935,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -935,7 +964,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -963,7 +993,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1016,7 +1047,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1044,7 +1076,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1072,7 +1105,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1100,7 +1134,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1128,7 +1163,8 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1159,7 +1195,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1187,7 +1224,8 @@
                 "^com\\.googlecode\\.iterm2$",
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
@@ -1212,7 +1250,8 @@
               "type": "frontmost_application_unless",
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
-                "^com\\.microsoft\\.rdc\\.macos$"
+                "^com\\.microsoft\\.rdc\\.macos$",
+                "^com\\.jetbrains\\.intellij$"
               ]
             }
           ],
